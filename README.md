@@ -8,9 +8,9 @@ my mini text server.
 <h1>How to use</h1>
 <h3>
 1. Enter the folder where you did clone in the terminal, and enter the "make" command.<br>
-2. Next, command the command "./server".<br>
+2. Next, enter the command "./server".<br>
 3. Next, open another terminal window.<br>
-4. Next, command the command "./client (SERVER PID NUMBER) (TEXT)".<br>
+4. Next, enter the command "./client (SERVER PID NUMBER) (TEXT)".<br>
   
 <br>
 Please refer to the following blog for more information.<br>

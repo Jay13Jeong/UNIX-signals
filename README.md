@@ -13,7 +13,7 @@ my mini text server.
 4. Next, command the command "./client (SERVER PID NUMBER) (TEXT)".<br>
   
 <br>
-Please refer to the following blog for instructions.<br>
+Please refer to the following blog for more information.<br>
 https://velog.io/@jay13jeong/Minitalk-UNIX-signals
 
 <br><br>

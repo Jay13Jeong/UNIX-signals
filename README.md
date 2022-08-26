@@ -1,4 +1,4 @@
-# minitalk
+# UNIX-signals
 <br>
 a small data exchange program using UNIX signals.
 <br>
